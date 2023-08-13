@@ -1,0 +1,13 @@
+{
+  "name": "my-winget-package",
+  "version": "1.0.0",
+  "description": "A sample Winget package",
+  "publisher": "Your Name",
+  "minimum_version": "6.0.0",
+  "targets": [
+    {
+      "arch": "x64",
+      "os": "windows"
+    }
+  ]
+}
